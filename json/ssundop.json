@@ -3,7 +3,7 @@
 		"id": 1,
 		"name": "Азон ва Икомат",
 		"description": "Ҷузъи асосӣ ва ҳатман бояд донист",
-		"imageicon": "https://raw.githubusercontent.com/fotehkamolov96/test/1dc746a80a6b0a99b1f7d05e4bfcd6ebcfe67e2c/imn/tutorial_books.svg",
+		"imageicon": "https://cdn-icons-png.flaticon.com/512/3790/3790727.png",
 		"imagerec": "https://raw.githubusercontent.com/fotehkamolov96/test/main/imn/im1.jpg"
 		
 	},
@@ -11,7 +11,7 @@
 		"id": 1,
 		"name": "Зикр намудан",
 		"description": "Намунаи зикр намудан",
-		"imageicon": "https://cdn-icons-png.flaticon.com/512/2597/2597717.png",
+		"imageicon": "https://cdn-icons-png.flaticon.com/512/3790/3790579.png",
 		"imagerec": "https://raw.githubusercontent.com/fotehkamolov96/test/main/imn/tasbih.jpg"
 		
 	}
