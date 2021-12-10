@@ -3,6 +3,7 @@
 		"id": 1,
 		"name": "Азон ва Икомат",
 		"description": "Ҷузъи асосӣ ва ҳатман бояд донист",
+		"imageicon": "https://raw.githubusercontent.com/fotehkamolov96/test/main/images/icon_month.png",
 		"imagerec": "https://raw.githubusercontent.com/fotehkamolov96/test/main/imn/im4.jpg"
 		
 	},
@@ -10,6 +11,7 @@
 		"id": 1,
 		"name": "Зикр намудан",
 		"description": "Намунаи зикр намудан",
+		"imageicon": "https://raw.githubusercontent.com/fotehkamolov96/test/main/images/icon_month.png",
 		"imagerec": "https://raw.githubusercontent.com/fotehkamolov96/test/main/imn/im4.jpg"
 		
 	}
