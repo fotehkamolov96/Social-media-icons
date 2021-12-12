@@ -2,13 +2,13 @@
 	{
 		"id": 1,
 		"name": "Графический дизайнер",
-		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/main/dn/ic/ic_card_1.png"
+		"image": "https://github.com/fotehkamolov96/test/blob/main/dn/ic/ic_card_1.png?raw=true"
 
 	},
 	{
 		"id": 2,
 		"name": "Программист",
-		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/main/dn/ic/ic_card_2.png"
+		"image": "https://github.com/fotehkamolov96/test/blob/main/dn/ic/ic_card_2.png?raw=true"
 	},
 	{
 		"id": 3,
@@ -23,21 +23,21 @@
 	{
 		"id": 5,
 		"name": "Java - разработчик",
-		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/main/dn/ic/ic_card_1.png"
+		"image": "https://github.com/fotehkamolov96/test/blob/main/dn/ic/ic_card_1.png?raw=true"
 	},
 	{
 		"id": 6,
 		"name": "Финансовый аналитик",
-		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/main/dn/ic/ic_card_2.png"
+		"image": "https://github.com/fotehkamolov96/test/blob/main/dn/ic/ic_card_2.png?raw=true"
 	},
 	{
 		"id": 7,
 		"name": "Режиссер - постановщик",
-		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/main/dn/ic/ic_card_3.png"
+		"image": "https://github.com/fotehkamolov96/test/blob/main/dn/ic/ic_card_3.png?raw=true"
 	},
 	{
 		"id": 8,
 		"name": "Web - разработчик",
-		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/main/dn/ic/ic_card_4.png"
+		"image": "https://github.com/fotehkamolov96/test/blob/main/dn/ic/ic_card_4.png?raw=true"
 	}
 ]
