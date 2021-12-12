@@ -1,44 +1,44 @@
 [
 	{
 		"id": 1,
-		"name": "ТНУ",
-		"image": "https://firebasestorage.googleapis.com/v0/b/noor-6206a.appspot.com/o/university%2Fdmt%2Fdmt1.jpg?alt=media&token=f782728e-d5a8-4bf9-9c68-9a05078e895a"
+		"name": "Графический дизайнер",
+		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/133850fa28c0c8511167b19f0e68dff3c3fe062d/dn/ic/ic_card_1.svg"
 
 	},
 	{
 		"id": 2,
-		"name": "ТНУ",
-		"image": "https://firebasestorage.googleapis.com/v0/b/noor-6206a.appspot.com/o/university%2Fdmt%2Fdmt1.jpg?alt=media&token=f782728e-d5a8-4bf9-9c68-9a05078e895a"
+		"name": "Программист",
+		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/133850fa28c0c8511167b19f0e68dff3c3fe062d/dn/ic/ic_card_2.svg"
 	},
 	{
 		"id": 3,
-		"name": "ТНУ",
-		"image": "https://firebasestorage.googleapis.com/v0/b/noor-6206a.appspot.com/o/university%2Fdmt%2Fdmt1.jpg?alt=media&token=f782728e-d5a8-4bf9-9c68-9a05078e895a"
+		"name": "Бухгалтер",
+		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/133850fa28c0c8511167b19f0e68dff3c3fe062d/dn/ic/ic_card_3.svg"
 	},
 	{
 		"id": 4,
-		"name": "ТНУ",
-		"image": "https://firebasestorage.googleapis.com/v0/b/noor-6206a.appspot.com/o/university%2Fdmt%2Fdmt1.jpg?alt=media&token=f782728e-d5a8-4bf9-9c68-9a05078e895a"
+		"name": "Тестировщик",
+		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/133850fa28c0c8511167b19f0e68dff3c3fe062d/dn/ic/ic_card_4.svg"
 	},
 	{
 		"id": 5,
-		"name": "ТНУ",
-		"image": "https://firebasestorage.googleapis.com/v0/b/noor-6206a.appspot.com/o/university%2Fdmt%2Fdmt1.jpg?alt=media&token=f782728e-d5a8-4bf9-9c68-9a05078e895a"
+		"name": "Java - разработчик",
+		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/133850fa28c0c8511167b19f0e68dff3c3fe062d/dn/ic/ic_card_1.svg"
 	},
 	{
 		"id": 6,
-		"name": "ТНУ",
-		"image": "https://firebasestorage.googleapis.com/v0/b/noor-6206a.appspot.com/o/university%2Fdmt%2Fdmt1.jpg?alt=media&token=f782728e-d5a8-4bf9-9c68-9a05078e895a"
+		"name": "Финансовый аналитик",
+		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/133850fa28c0c8511167b19f0e68dff3c3fe062d/dn/ic/ic_card_2.svg"
 	},
 	{
 		"id": 7,
-		"name": "ТНУ",
-		"image": "https://firebasestorage.googleapis.com/v0/b/noor-6206a.appspot.com/o/university%2Fdmt%2Fdmt1.jpg?alt=media&token=f782728e-d5a8-4bf9-9c68-9a05078e895a"
+		"name": "Режиссер - постановщик",
+		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/133850fa28c0c8511167b19f0e68dff3c3fe062d/dn/ic/ic_card_3.svg"
 	},
 	{
 		"id": 8,
-		"name": "ТНУ",
-		"image": "https://firebasestorage.googleapis.com/v0/b/noor-6206a.appspot.com/o/university%2Fdmt%2Fdmt1.jpg?alt=media&token=f782728e-d5a8-4bf9-9c68-9a05078e895a"
+		"name": "Web - разработчик",
+		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/133850fa28c0c8511167b19f0e68dff3c3fe062d/dn/ic/ic_card_4.svg"
 	},
 	{
 		"id": 9,
