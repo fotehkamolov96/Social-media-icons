@@ -2,42 +2,42 @@
 	{
 		"id": 1,
 		"name": "Графический дизайнер",
-		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/133850fa28c0c8511167b19f0e68dff3c3fe062d/dn/ic/ic_card_1.svg"
+		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/main/dn/ic/ic_card_1.png"
 
 	},
 	{
 		"id": 2,
 		"name": "Программист",
-		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/133850fa28c0c8511167b19f0e68dff3c3fe062d/dn/ic/ic_card_2.svg"
+		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/main/dn/ic/ic_card_2.png"
 	},
 	{
 		"id": 3,
 		"name": "Бухгалтер",
-		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/133850fa28c0c8511167b19f0e68dff3c3fe062d/dn/ic/ic_card_3.svg"
+		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/main/dn/ic/ic_card_3.png"
 	},
 	{
 		"id": 4,
 		"name": "Тестировщик",
-		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/133850fa28c0c8511167b19f0e68dff3c3fe062d/dn/ic/ic_card_4.svg"
+		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/main/dn/ic/ic_card_4.png"
 	},
 	{
 		"id": 5,
 		"name": "Java - разработчик",
-		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/133850fa28c0c8511167b19f0e68dff3c3fe062d/dn/ic/ic_card_1.svg"
+		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/main/dn/ic/ic_card_1.png"
 	},
 	{
 		"id": 6,
 		"name": "Финансовый аналитик",
-		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/133850fa28c0c8511167b19f0e68dff3c3fe062d/dn/ic/ic_card_2.svg"
+		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/main/dn/ic/ic_card_2.png"
 	},
 	{
 		"id": 7,
 		"name": "Режиссер - постановщик",
-		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/133850fa28c0c8511167b19f0e68dff3c3fe062d/dn/ic/ic_card_3.svg"
+		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/main/dn/ic/ic_card_3.png"
 	},
 	{
 		"id": 8,
 		"name": "Web - разработчик",
-		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/133850fa28c0c8511167b19f0e68dff3c3fe062d/dn/ic/ic_card_4.svg"
+		"image": "https://raw.githubusercontent.com/fotehkamolov96/test/main/dn/ic/ic_card_4.png"
 	}
 ]
