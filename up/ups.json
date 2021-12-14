@@ -1,62 +1,32 @@
 [
 	{
-		"id": 1,
-		"name": "Графический дизайнер",
-		"image": "https://github.com/fotehkamolov96/test/blob/main/dn/ic/ic_card_1.png?raw=true",
 		"item_textdetils_1": "Графический дизайнер",
+
 		"item_textdetils_2": "Чему вы научитесь ?",
 		"item_textdetils_2a": "Инфографика",
 		"item_textdetils_2b": "Создание логотипов",
 		"item_textdetils_2c": "Разработка и верстка дизайн продукции",
 		"item_textdetils_2d": "Создание 3D-графикой и анимацией",
 		"item_textdetils_2e": "Работа в графических редакторах: Adobe Photoshop, Illustrator, InDesign, After Effects, Figma, Scetch",
+
 		"item_textdetils_3": "Как проходит обучение?",
 		"item_textdetils_3a": "Проходите обучение по теоретическим материалам",
 		"item_textdetils_3b": "Практические задания",
 		"item_textdetils_3c": "Подготовка материалы для портфолио",
+	
 		"item_textdetils_4": "Зачем учиться на графического дизайнера?",
 		"item_textdetils_4a": "Одним из главных плюсов профессии графического дизайнера считается возможность начать работу, не потратив 3-6 лет на получение диплома по профилю. Познания в изобразительном искусстве и компьютерных технологиях понадобятся, но развитием в этих направлениях можно заняться самостоятельно.",
+		
 		"item_textdetils_5": "298K+",
 		"item_textdetils_5a": "По всему миру компании ищут графического дизайнера",
+
 		"item_textdetils_6": "700",
 		"item_textdetils_6a": "Обобщать уровень зарплаты дизайнера бессмысленно, так как он, в зависимости от выбранной квалификации, опыта, знания программ, наличия портфолио и места работы может варьироваться от 400 до 3000 в месяц.",
+
 		"item_textdetils_7": "Учебные заведения",
 		"item_textdetils_7a": "Образовательный процесс длится не менее четерх лет, за время которого студенты получают ценные знания и умения.",
-		"item_textdetils_7b": "Графические дизайнеры работают в дизайн-студиях, брендинговых и рекламных агентствах, издательствах и в любых государственных предприятиях и частных фирмах, предпочитающих держать в штате собственного дизайнера."
-	},
-	{
-		"id": 2,
-		"name": "Программист",
-		"image": "https://github.com/fotehkamolov96/test/blob/main/dn/ic/ic_card_2.png?raw=true"
-	},
-	{
-		"id": 3,
-		"name": "Бухгалтер",
-		"image": "https://github.com/fotehkamolov96/test/blob/main/dn/ic/ic_card_3.png?raw=true"
-	},
-	{
-		"id": 4,
-		"name": "Тестировщик",
-		"image": "https://github.com/fotehkamolov96/test/blob/main/dn/ic/ic_card_4.png?raw=true"
-	},
-	{
-		"id": 5,
-		"name": "Java - разработчик",
-		"image": "https://github.com/fotehkamolov96/test/blob/main/dn/ic/ic_card_1.png?raw=true"
-	},
-	{
-		"id": 6,
-		"name": "Финансовый аналитик",
-		"image": "https://github.com/fotehkamolov96/test/blob/main/dn/ic/ic_card_2.png?raw=true"
-	},
-	{
-		"id": 7,
-		"name": "Режиссер - постановщик",
-		"image": "https://github.com/fotehkamolov96/test/blob/main/dn/ic/ic_card_3.png?raw=true"
-	},
-	{
-		"id": 8,
-		"name": "Web - разработчик",
-		"image": "https://github.com/fotehkamolov96/test/blob/main/dn/ic/ic_card_4.png?raw=true"
+		"item_textdetils_7b": "Графические дизайнеры работают в дизайн-студиях, брендинговых и рекламных агентствах, издательствах и в любых государственных предприятиях и частных фирмах, предпочитающих держать в штате собственного дизайнера.",
+	
+		"item_textdetils_17": "Душанбе"
 	}
 ]
