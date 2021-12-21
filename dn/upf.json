@@ -251,10 +251,10 @@
 
 	{
 		"id": 9,
-		"namepd": "Инженер-конструктор",
-		"imagepd": "https://github.com/fotehkamolov96/test/blob/main/dn/ic/ic_card_4.png?raw=true",
+		"namepd": "Инженер - конструктор",
+		"imagepd": "https://github.com/fotehkamolov96/test/blob/main/dn/ic/ic_card_1.png?raw=true",
 
-		"item_textdetils_1": "Инженер-конструктор",
+		"item_textdetils_1": "Инженер - конструктор",
 		
 		"item_textdetils_2": "Чему вы научитесь?",
 		"item_textdetils_2a": "Разрабатываете эскизные, технические и рабочие проекты",
