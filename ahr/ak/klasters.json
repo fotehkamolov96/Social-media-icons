@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1,
+		"name": "Механика",
+		"one_des": "Намунаи",
+		"two_des": "Намунаи",
+		"discipline": "Намунаи",
+		"item_img": "https://raw.githubusercontent.com/fotehkamolov96/test/main/imn/im4.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Механика",
+		"one_des": "Намунаи",
+		"two_des": "Намунаи",
+		"discipline": "Намунаи",
+		"item_img": "https://raw.githubusercontent.com/fotehkamolov96/test/main/imn/im4.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Механика",
+		"one_des": "Намунаи",
+		"two_des": "Намунаи",
+		"discipline": "Намунаи",
+		"item_img": "https://raw.githubusercontent.com/fotehkamolov96/test/main/imn/im4.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Механика",
+		"one_des": "Намунаи",
+		"two_des": "Намунаи",
+		"discipline": "Намунаи",
+		"item_img": "https://raw.githubusercontent.com/fotehkamolov96/test/main/imn/im4.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Механика",
+		"one_des": "Намунаи",
+		"two_des": "Намунаи",
+		"discipline": "Намунаи",
+		"item_img": "https://raw.githubusercontent.com/fotehkamolov96/test/main/imn/im4.jpg"
+	}
+]
