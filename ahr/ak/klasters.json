@@ -1,15 +1,15 @@
 [
 	{
 		"id": 1,
-		"name": "Механика",
+		"name": "Кластер 1",
 		"one_des": "Намунаи",
 		"two_des": "Намунаи",
 		"discipline": "Намунаи",
-		"item_img": "https://raw.githubusercontent.com/fotehkamolov96/test/main/ahr/ak/ic_banner_klass2.png"
+		"item_img": "https://raw.githubusercontent.com/fotehkamolov96/test/main/ahr/ak/ic_banner_klass1.png"
 	},
 	{
 		"id": 2,
-		"name": "Механика",
+		"name": "Кластер 2",
 		"one_des": "Намунаи",
 		"two_des": "Намунаи",
 		"discipline": "Намунаи",
@@ -17,7 +17,7 @@
 	},
 	{
 		"id": 3,
-		"name": "Механика",
+		"name": "Кластер 3",
 		"one_des": "Намунаи",
 		"two_des": "Намунаи",
 		"discipline": "Намунаи",
