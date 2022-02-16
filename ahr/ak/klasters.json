@@ -21,22 +21,22 @@
 		"one_des": "Намунаи",
 		"two_des": "Намунаи",
 		"discipline": "Намунаи",
-		"item_img": "https://raw.githubusercontent.com/fotehkamolov96/test/main/ahr/ak/ic_banner_klass2.png"
+		"item_img": "https://raw.githubusercontent.com/fotehkamolov96/test/main/ahr/ak/ic_banner_klass3.png"
 	},
 	{
 		"id": 4,
-		"name": "Механика",
+		"name": "Кластер 4",
 		"one_des": "Намунаи",
 		"two_des": "Намунаи",
 		"discipline": "Намунаи",
-		"item_img": "https://raw.githubusercontent.com/fotehkamolov96/test/main/ahr/ak/ic_banner_klass1.png"
+		"item_img": "https://raw.githubusercontent.com/fotehkamolov96/test/main/ahr/ak/ic_banner_klass4.png"
 	},
 	{
 		"id": 5,
-		"name": "Механика",
+		"name": "Кластер 5",
 		"one_des": "Намунаи",
 		"two_des": "Намунаи",
 		"discipline": "Намунаи",
-		"item_img": "https://raw.githubusercontent.com/fotehkamolov96/test/main/ahr/ak/ic_banner_klass2.png"
+		"item_img": "https://raw.githubusercontent.com/fotehkamolov96/test/main/ahr/ak/ic_banner_klass5.png"
 	}
 ]
