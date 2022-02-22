@@ -2,41 +2,51 @@
 	{
 		"id": 1,
 		"name": "Кластер 1",
-		"one_des": "Намунаи",
-		"two_des": "Намунаи",
-		"discipline": "Намунаи",
-		"item_img": "https://raw.githubusercontent.com/fotehkamolov96/test/main/ahr/ak/ic_banner_klass1.png"
+		"one_des": "Кластер - это несколько объектов со схожими функциями, логически объединённых в одну группу с целью повышения эффективности и облегчения доступности.",
+		"two_des": "Техническое образование – совокупность теоретических и практических знаний и навыков, которые предоставляют возможность освоившим решать производственные, технические задачи. Главной целью является научить студентов эксплуатировать, анализировать механизмы, машины, аппараты, также обслуживать конструкции.",
+		"three_des": "ТЕХНИЧЕСКИЕ НАУКИ – область знания, в которой описываются и изучаются закономерности «второй природы», т.е. технического мира. Знания технических наук оцениваются с точки зрения не только истинности, но и эффективности, поскольку создаются специально для использования в технике и инженерной деятельности. Первоначально (17–18 вв.) в инженерной деятельности применялись знания из отдельных естественных наук (отобранные или специально построенные), а также технологические знания (описание конструкций, технологических операций и т.д.). Именно естественно-научные знания позволяли мысленно вычленить и зафиксировать естественный процесс, реализуемый в инженерном устройстве, а также определить расчетным путем точные характеристики конструкций, обеспечивающих данный процесс.",
+		"discipline": "Естественный и технический",
+		"item_img": "https://raw.githubusercontent.com/fotehkamolov96/test/main/ahr/ak/ic_banner_klass1.png",
+		"item_img2": "https://raw.githubusercontent.com/fotehkamolov96/test/main/ahr/ak/ic_banner_klass1.png"
 	},
 	{
 		"id": 2,
 		"name": "Кластер 2",
-		"one_des": "Намунаи",
+		"one_des": "Экономика – это отрасль науки, которая занимается изучением теоретических основ ведения хозяйственной деятельности, закономерностей производства, накопления, распределения и потребления произведенного продукта и формирует систему экономических категорий, понятий и теорий.",
 		"two_des": "Намунаи",
-		"discipline": "Намунаи",
-		"item_img": "https://raw.githubusercontent.com/fotehkamolov96/test/main/ahr/ak/ic_banner_klass2.png"
+		"three_des": "Намунаи",
+		"discipline": "Экономика и география",
+		"item_img": "https://raw.githubusercontent.com/fotehkamolov96/test/main/ahr/ak/ic_banner_klass2.png",
+		"item_img2": "https://raw.githubusercontent.com/fotehkamolov96/test/main/ahr/ak/ic_banner_klass2.png"
 	},
 	{
 		"id": 3,
 		"name": "Кластер 3",
 		"one_des": "Намунаи",
 		"two_des": "Намунаи",
-		"discipline": "Намунаи",
-		"item_img": "https://raw.githubusercontent.com/fotehkamolov96/test/main/ahr/ak/ic_banner_klass3.png"
+		"three_des": "Намунаи",
+		"discipline": "Филология, педагогика и искусство",
+		"item_img": "https://raw.githubusercontent.com/fotehkamolov96/test/main/ahr/ak/ic_banner_klass3.png",
+		"item_img2": "https://raw.githubusercontent.com/fotehkamolov96/test/main/ahr/ak/ic_banner_klass3.png"
 	},
 	{
 		"id": 4,
 		"name": "Кластер 4",
 		"one_des": "Намунаи",
 		"two_des": "Намунаи",
-		"discipline": "Намунаи",
-		"item_img": "https://raw.githubusercontent.com/fotehkamolov96/test/main/ahr/ak/ic_banner_klass4.jpg"
+		"three_des": "Намунаи",
+		"discipline": "Обществоведение и право",
+		"item_img": "https://raw.githubusercontent.com/fotehkamolov96/test/main/ahr/ak/ic_banner_klass4.jpg",
+		"item_img2": "https://raw.githubusercontent.com/fotehkamolov96/test/main/ahr/ak/ic_banner_klass4.png"
 	},
 	{
 		"id": 5,
 		"name": "Кластер 5",
 		"one_des": "Намунаи",
 		"two_des": "Намунаи",
-		"discipline": "Намунаи",
-		"item_img": "https://raw.githubusercontent.com/fotehkamolov96/test/main/ahr/ak/ic_banner_klass5.jpg"
+		"three_des": "Намунаи",
+		"discipline": "Медицина, иология и спорт",
+		"item_img": "https://raw.githubusercontent.com/fotehkamolov96/test/main/ahr/ak/ic_banner_klass5.jpg",
+		"item_img2": "https://raw.githubusercontent.com/fotehkamolov96/test/main/ahr/ak/ic_banner_klass5.png"
 	}
 ]
