@@ -1,0 +1,82 @@
+[
+    {
+        "question": "Variant1",
+        "optA": "test1",
+        "optB": "test2",
+        "optC": "test3",
+        "optD": "test4",
+        "answer": "test1"
+    },
+    {
+        "question": "Variant2",
+        "optA": "test1",
+        "optB": "test2",
+        "optC": "test3",
+        "optD": "test4",
+        "answer": "test1"
+    },
+    {
+        "question": "Variant3",
+        "optA": "test1",
+        "optB": "test2",
+        "optC": "test3",
+        "optD": "test4",
+        "answer": "test1"
+    },
+    {
+        "question": "Variant4",
+        "optA": "test1",
+        "optB": "test2",
+        "optC": "test3",
+        "optD": "test4",
+        "answer": "test1"
+    },
+    {
+        "question": "Variant5",
+        "optA": "test1",
+        "optB": "test2",
+        "optC": "test3",
+        "optD": "test4",
+        "answer": "test1"
+    },
+    {
+        "question": "Variant6",
+        "optA": "test1",
+        "optB": "test2",
+        "optC": "test3",
+        "optD": "test4",
+        "answer": "test1"
+    },
+    {
+        "question": "Variant7",
+        "optA": "test1",
+        "optB": "test2",
+        "optC": "test3",
+        "optD": "test4",
+        "answer": "test1"
+    },
+    {
+        "question": "Variant8",
+        "optA": "test1",
+        "optB": "test2",
+        "optC": "test3",
+        "optD": "test4",
+        "answer": "test1"
+    },
+    {
+        "question": "Variant9",
+        "optA": "test1",
+        "optB": "test2",
+        "optC": "test3",
+        "optD": "test4",
+        "answer": "test1"
+    },
+    {
+        "question": "Variant10",
+        "optA": "test1",
+        "optB": "test2",
+        "optC": "test3",
+        "optD": "test4",
+        "answer": "test1"
+    }
+]
