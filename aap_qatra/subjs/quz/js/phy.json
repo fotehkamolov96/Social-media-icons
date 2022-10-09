@@ -1,5 +1,6 @@
 [
     {
+        "level": "Вопрос1",
         "question": "Variant1",
         "optA": "test1",
         "optB": "test2",
@@ -8,6 +9,7 @@
         "answer": "test1"
     },
     {
+        "level": "Вопрос2",
         "question": "Variant2",
         "optA": "test1",
         "optB": "test2",
@@ -16,6 +18,7 @@
         "answer": "test1"
     },
     {
+        "level": "Вопрос3",
         "question": "Variant3",
         "optA": "test1",
         "optB": "test2",
@@ -24,6 +27,7 @@
         "answer": "test1"
     },
     {
+        "level": "Вопрос4",
         "question": "Variant4",
         "optA": "test1",
         "optB": "test2",
@@ -32,6 +36,7 @@
         "answer": "test1"
     },
     {
+        "level": "Вопрос5",
         "question": "Variant5",
         "optA": "test1",
         "optB": "test2",
@@ -40,6 +45,7 @@
         "answer": "test1"
     },
     {
+        "level": "Вопрос6",
         "question": "Variant6",
         "optA": "test1",
         "optB": "test2",
@@ -48,6 +54,7 @@
         "answer": "test1"
     },
     {
+        "level": "Вопрос7",
         "question": "Variant7",
         "optA": "test1",
         "optB": "test2",
@@ -56,6 +63,7 @@
         "answer": "test1"
     },
     {
+        "level": "Вопрос8",
         "question": "Variant8",
         "optA": "test1",
         "optB": "test2",
@@ -64,6 +72,7 @@
         "answer": "test1"
     },
     {
+        "level": "Вопрос9",
         "question": "Variant9",
         "optA": "test1",
         "optB": "test2",
@@ -72,6 +81,7 @@
         "answer": "test1"
     },
     {
+        "level": "Вопрос10",
         "question": "Variant10",
         "optA": "test1",
         "optB": "test2",
