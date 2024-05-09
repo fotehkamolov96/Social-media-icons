@@ -1,0 +1,19 @@
+[
+	{	"id": 1,
+		"name": "Калимаи Шаҳодат",
+		"imagerec":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/09da53131951965.619f3a60c4463.png"
+	},
+	{	"id": 2,
+		"name": "Номҳои Худованд",
+		"imagerec":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/55ac37131956809.619f5020339bc.png"
+	},
+	{	"id": 3,
+		"name": "Моҳҳо",
+		"imagerec":"https://images.unsplash.com/photo-1631972756622-b2d9164c0e53?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=705&q=80"
+	},
+	{	"id": 4,
+		"name": "Тасбеҳ",
+		"imagerec":"https://images.unsplash.com/photo-1611664177301-870577064f7b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+	}
+		
+]
